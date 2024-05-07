@@ -1,0 +1,16 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Single > renders a file input 1`] = `"<input data-v-91122bb6="" type="file" class="hidden">"`;
+
+exports[`Single > should render File input 1`] = `"<input data-v-91122bb6="" type="file" class="hidden">"`;
+
+exports[`Single > should return correctly 1`] = `"<input data-v-91122bb6="" data-type="singleInput" type="file" class="hidden">"`;
+
+exports[`change > should return correctly 1`] = `
+"<div data-v-91122bb6="" class="grid gap-2 w-[200px]">
+  <div data-v-91122bb6="">Single</div><label data-v-91122bb6="" style="background-image: url(/src/images/defaultImage.png);" class="image border relative"><img data-v-91122bb6="" class="absolute top-0 left-1 w-[30px]" src=""><input data-v-91122bb6="" type="file" class="hidden"></label>
+  <div data-v-91122bb6="" class=""></div><b data-v-91122bb6="" class="">you can only upload a file</b><button data-v-91122bb6="" class="text-white bg-blue-500 w-[200px]">upload</button>
+</div>"
+`;
+
+exports[`sum > should return correctly 1`] = `"0"`;

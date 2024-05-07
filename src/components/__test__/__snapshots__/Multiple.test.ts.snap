@@ -1,0 +1,3 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Single > should render File input 1`] = `"<input data-v-91122bb6="" type="file" class="hidden">"`;
